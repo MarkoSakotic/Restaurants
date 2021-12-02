@@ -1,0 +1,23 @@
+[
+    {
+        "type": "Coffeshop"
+    },
+    {
+        "type": "Sushi"
+    },
+    {
+        "type": "Chinese"
+    },
+    {
+        "type": "International"
+    },
+    {
+        "type": "Balkan"
+    },
+    {
+        "type": "FastFood"
+    },
+    {
+        "type": "Vegan"
+    }
+]

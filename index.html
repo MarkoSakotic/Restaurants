@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurants</title>
+    <link rel="stylesheet" href="restaurants.css">
+    <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+</head>
+
+<body>
+    <div>
+        <div>
+            <div class="split left summary-position background-filters summary-position">
+                <h3>Filters</h3>
+                <div class="margin-br">
+                    <label>Prrice range [RSD]</label>
+                    <div id='priceRange'></div>
+                </div>
+                <div class="margin-br">
+                    <label>Size range</label>
+                    <div id='sizeRange'></div>
+                </div>
+                <div class="margin-br">
+                    <label>Enter work time: </label>
+                    <input id='workTime' class="work-time-width" size="24" />
+                    <button id='filterTime' class="stylebutton">Filter</button>
+                    <span id="output" class="red"></span>
+                </div>
+                <div class="margin-br">
+                    <label>Open now </label>
+                    <button id='openRightNow' class="stylebutton">Find</button>
+                </div>
+                <div class="margin-br">
+                    <label>Include categories</label>
+
+                    <span>
+                        <button id='allCategories' class="stylebutton">All</button>
+                        <button id='someCategories' class="stylebutton">Any</button>
+                    </span>
+                    <div id='foodCategories' class='foodCategories'>
+
+                    </div>
+                </div>
+                <div class="margin-br">
+                    <button id='reset' class="stylebutton">Reset filters</button>
+                </div>
+            </div>
+        </div>
+        <div class="split right">
+            <h1>Find restaurant</h1>
+            <br>
+            <span id="notice" class="red"></span>
+            <div id='divAllRestaurants' class='row'>
+            </div>
+        </div>
+        <div class="active hidden"></div>
+        <script type="module" src="./modules/restaurants.js"></script>
+</body>
+
+</html>

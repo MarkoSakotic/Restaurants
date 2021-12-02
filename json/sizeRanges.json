@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Small size",
+        "note": "Number of tables [0 - 10]",
+        "min": 0,
+        "max": 10
+    },
+    {
+        "name": "Medium size",
+        "note": "Number of tables [11 - 70]",
+        "min": 11,
+        "max": 70
+    },
+    {
+        "name": "Big size",
+        "note": "Number of tables [71 - 250]",
+        "min": 71,
+        "max": 250
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Rosetto",
+        "address": "Boulevar 2",
+        "phoneNumber": "111-222", 
+        "image": "rosetto", 
+        "averageMealPrice": 500, 
+        "numberOfTable": 71, 
+        "categories": [
+            {
+                "type": "Coffeshop"
+            },
+            {
+                "type": "Sushi"
+            },
+            {
+                "type": "Chinese"
+            },
+            {
+                "type": "International"
+            },
+            {
+                "type": "Balkan"
+            },
+            {
+                "type": "FastFood"
+            },
+            {
+                "type": "Vegan"
+            }
+        ], 
+        "openingTime": 8, 
+        "closingTime": 20
+    },
+    {
+        "name": "McDonalnds",
+        "address": "Promenada",
+        "phoneNumber": "222-444", 
+        "image": "mcdonalds", 
+        "averageMealPrice": 300, 
+        "numberOfTable": 30, 
+        "categories": [
+            {
+                "type": "Coffeshop"
+            },
+            {
+                "type": "International"
+            },
+            {
+                "type": "FastFood"
+            }
+        ],
+        "openingTime": 1, 
+        "closingTime": 9
+    },
+    {
+        "name": "Starbucks",
+        "address": "Rajiceva Shopping Mall",
+        "phoneNumber": "23/33/4", 
+        "image": "starbucks", 
+        "averageMealPrice": 480, 
+        "numberOfTable": 32, 
+        "categories": [
+            {
+                "type": "Sushi"
+            },
+            {
+                "type": "Coffeshop"
+            },
+            {
+                "type": "International"
+            }
+        ], 
+        "openingTime": 9, 
+        "closingTime": 20
+    },
+    {
+        "name": "Pizza Hut",
+        "address": "Calea Sagului 100",
+        "phoneNumber": "534-422", 
+        "image": "pizzahut", 
+        "averageMealPrice": 560, 
+        "numberOfTable": 18, 
+        "categories": [
+            {
+                "type": "Coffeshop"
+            },
+            {
+                "type": "International"
+            }
+        ],
+        "openingTime": 7, 
+        "closingTime": 16
+    },
+    {
+        "name": "Uogashi",
+        "address": "461 5th Ave",
+        "phoneNumber": "323-422", 
+        "image": "uogashi", 
+        "averageMealPrice": 800, 
+        "numberOfTable": 45, 
+        "categories": [
+            {
+                "type": "International"
+            },
+            {
+                "type": "FastFood"
+            },
+            {
+                "type": "Sushi"
+            }
+        ],
+        "openingTime": 17, 
+        "closingTime": 23
+    },
+    {
+        "name": "Ananda",
+        "address": "Petra Drapsina 51",
+        "phoneNumber": "021/323232", 
+        "image": "ananda", 
+        "averageMealPrice": 460, 
+        "numberOfTable": 10, 
+        "categories": [
+            {
+                "type": "Sushi"
+            },
+            {
+                "type": "Coffeshop"
+            },
+            {
+                "type": "Vegan"
+            }
+        ],
+        "openingTime": 7, 
+        "closingTime": 15
+    },
+    {
+        "name": "Etno restoran Stara pesma",
+        "address": "Zmaj Jovina 21",
+        "phoneNumber": "021/5454", 
+        "image": "starapesma", 
+        "averageMealPrice": 2355, 
+        "numberOfTable": 90, 
+        "categories": [
+            {
+                "type": "Balkan"
+            },
+            {
+                "type": "Vegan"
+            }
+        ],
+        "openingTime": 8, 
+        "closingTime": 24
+    },
+    {
+        "name": "Panda express",
+        "address": "St Duckworth London",
+        "phoneNumber": "663-886", 
+        "image": "pandaexpress", 
+        "averageMealPrice": 500, 
+        "numberOfTable": 72, 
+        "categories": [
+            {
+                "type": "Chinese"
+            },
+            {
+                "type": "International"
+            },
+            {
+                "type": "FastFood"
+            }
+        ],
+        "openingTime": 9, 
+        "closingTime": 24
+    }
+]

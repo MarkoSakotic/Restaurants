@@ -1,0 +1,20 @@
+[
+    {
+        "nameOfPriceRange": "Inexpensive",
+        "note": "Price of meal beetween [50 - 650]",
+        "min": 50,
+        "max": 650
+    },
+    {
+        "nameOfPriceRange": "Moderate",
+        "note": "Price of meal beetween [651 - 2350]",
+        "min": 651,
+        "max": 2350
+    },
+    {
+        "nameOfPriceRange": "Expensive",
+        "note": "Price of meal beetween [2351 - 7000]",
+        "min": 2351,
+        "max": 7000
+    }
+]
